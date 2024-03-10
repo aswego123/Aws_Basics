@@ -7,8 +7,6 @@ Official documentation -
 Youtube Resources - 
 https://www.youtube.com/@in28minutes
 
-<img width="727" alt="Screenshot 2024-03-10 125755" src="https://github.com/aswego123/Aws_Basics/assets/77005833/cb68c722-5b91-44c4-81c8-5da6c5a1a7bc">
-
 IMP Pointers-
 (Services)
 1. Amazone S3  (Simple Storage Service) - a virtual storage unit where you can store files and data securely - (big virtual storage locker)
@@ -19,4 +17,7 @@ Managed services - Eleastic Beanstalk or Container Orcestrations - Kurbernetese 
 
 DATABASES - Relational SQL (RDS, Aurora) or NoSQL (Dynamo DB - Documents database json), Analytics Databases (red shift)
 
+
+
+<img width="727" alt="Screenshot 2024-03-10 125755" src="https://github.com/aswego123/Aws_Basics/assets/77005833/cb68c722-5b91-44c4-81c8-5da6c5a1a7bc">
 
